@@ -1,10 +1,7 @@
-<style>
-* {
-  text-align: center;
-}
-</style>
 <h1>Welcome to my profile!</h1>
 <p>Learning Python | Game Dev | Web Developer</p>
+<a href='https://replit.com/gaminglemonss'>Replit Account</a>
+<a href='https://khanacademy.org/profile/gaminglemons'>| Khan Academy Account</a>
 
 <!--
 **gaminglemonss/gaminglemonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
