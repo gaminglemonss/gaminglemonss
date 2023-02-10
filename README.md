@@ -1,6 +1,4 @@
-### Hi there, welcome  👋
-### Welcome to my profile
-### Learning Python | Game Dev | Web Developer
+<h1>Welcome =]</h1>
 
 <!--
 **gaminglemonss/gaminglemonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
