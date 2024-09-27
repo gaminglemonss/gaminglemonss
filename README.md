@@ -1,3 +1,4 @@
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"/>
 <div align='center'>
   <h1>Hi there!</h1>
   <p>I'm Lemon Games, an amateur web and game developer who can be found on a<br>varierty of coding platforms (@gaminglemonz or @gaminglemonss).</p>
@@ -17,11 +18,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white">  
 
-  <h2>What I'm Doing</h2>
-  
-  <ul>
-    <li>Learning TailwindCSS, SQL, and Node.JS</li>
-    <li>Mostly active on Khan Academy</li>
-    <li>Still trying to walk...</li>
-  </ul>
+  <h2>My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaminglemonss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaminglemonss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
