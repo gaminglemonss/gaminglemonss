@@ -14,5 +14,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/khan%20academy-11fac0?style=for-the-badge&logo=khan-academy&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/replit-orange?style=for-the-badge&logo=replit&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/glitch-0704c2?style=for-the-badge&logo=glitch&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white">  
 
+  <h2>What I'm Doing</h2>
+  
+  <ul>
+    <li>Learning TailwindCSS, SQL, and Node.JS</li>
+    <li>Mostly active on Khan Academy</li>
+    <li>Still trying to walk...</li>
+  </ul>
 </div>
