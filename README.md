@@ -3,14 +3,16 @@
   <p>I'm Lemon Games, an amateur web and game developer who can be found on a<br>varierty of coding platforms (@gaminglemonz or @gaminglemonss).</p>
   
   <h2>Language Set</h2>
-  <img src='https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/cfd8dead9888c223948bcc0759e9946cc953642efd598098c579e326615d7a75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/8392239e6c069c7894a8bde5ec7f07183f08d5b20806803fa1777a6023d40c80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/886e1c46655d3fc8e75e54a8429fdb546e8a0ac789e806a7d2f776275ff17bd4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70352532306a732d4544323235443f7374796c653d666f722d7468652d6261646765266c6f676f3d7035646f746a73266c6f676f436f6c6f723d7768697465'>
+  <img src='https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/P5.JS-f53692?style=for-the-badge&logo=p5.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white">
   
   <h2>Platforms</h2>
-  <img src='https://camo.githubusercontent.com/5bc399a3d94399edce035bd88c3958dc6b1f3dd5623c39f2f40f6be1d67348f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b68616e41636164656d792d2532333134424639362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b68616e41636164656d79266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/f6e3ff180af26feb7f0fff65f6a2a280b63a89b9e92ad4b0195bd2f45f20eb47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706c69742d4444313230303f7374796c653d666f722d7468652d6261646765266c6f676f3d5265706c6974266c6f676f436f6c6f723d7768697465'>
-  <img src='https://camo.githubusercontent.com/0254e4f4895fe9d41cd980ccc47f7bf312cab0ec0b10e0ac6fcd2f6f4221d354/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d776869746529'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/khan%20academy-11fac0?style=for-the-badge&logo=khan-academy&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/replit-orange?style=for-the-badge&logo=replit&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/glitch-0704c2?style=for-the-badge&logo=glitch&logoColor=white">
+
 </div>
